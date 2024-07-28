@@ -3,12 +3,6 @@
 
 Uber Clone Project: This project is an Uber clone application that leverages several technologies to replicate key functionalities of the popular ride-hailing service. The app utilizes Firebase for backend services, including Firebase Auth for authentication, Cloud Firestore for real-time database management, and Google Maps for geolocation and map features. It also includes a booking history feature. Dummy data is fetched from Firebase and displayed in the app to simulate real-world scenarios.
 
-
-## Demo
-
-Insert gif or link to demo
-
-
 ## Features
 
 - Driver location tracking
@@ -55,6 +49,6 @@ To run this project in debug mode
 
 ## APK File
 
-For testing the application i am providing the link for that as apk file :
+For testing the application i am providing the link for that as apk file :  https://drive.google.com/file/d/1Rx94k5jImdPzLwY8FyIWNNIzEBlypUNO/view?usp=drive_link
 
 
