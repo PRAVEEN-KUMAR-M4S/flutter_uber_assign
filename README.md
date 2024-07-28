@@ -24,31 +24,17 @@ Insert gif or link to demo
 Login screen
 <img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161182.jpg?alt=media&token=11a44070-94ed-4346-bc70-3247f47b444e" width=400>
 
-
-
 Sign Up
 <img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161172.jpg?alt=media&token=3d285f81-a2cc-449a-a34e-ad6b6e4d9c0e" width=400>
-
-
-
-
 
 Home screen
 <img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161194.jpg?alt=media&token=78529165-42ce-414b-bb1e-94a33afd36dd" width=400>
 
-
-
-
-
 Home Screen
 <img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161227.jpg?alt=media&token=0ce8709f-11c1-4e75-9990-72057ed8aa54" width=400>
 
-
-
 Booking History 
 <img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161205.jpg?alt=media&token=021d86eb-ff9f-4749-9d38-9a10ecea96df" width=400>
-
-
 
 
 ## Tech Stack
