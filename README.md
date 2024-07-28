@@ -27,21 +27,28 @@ Login screen
 
 
 Sign Up
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161172.jpg?alt=media&token=3d285f81-a2cc-449a-a34e-ad6b6e4d9c0e)
+<img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161172.jpg?alt=media&token=3d285f81-a2cc-449a-a34e-ad6b6e4d9c0e" width=400>
+
 
 
 
 
 Home screen
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161194.jpg?alt=media&token=78529165-42ce-414b-bb1e-94a33afd36dd)
+<img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161194.jpg?alt=media&token=78529165-42ce-414b-bb1e-94a33afd36dd" width=400>
+
+
+
 
 
 Home Screen
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161227.jpg?alt=media&token=0ce8709f-11c1-4e75-9990-72057ed8aa54)
+<img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161227.jpg?alt=media&token=0ce8709f-11c1-4e75-9990-72057ed8aa54" width=400>
+
 
 
 Booking History 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161205.jpg?alt=media&token=021d86eb-ff9f-4749-9d38-9a10ecea96df)
+<img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161205.jpg?alt=media&token=021d86eb-ff9f-4749-9d38-9a10ecea96df" width=400>
+
+
 
 
 ## Tech Stack
