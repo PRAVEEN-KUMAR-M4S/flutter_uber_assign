@@ -22,7 +22,7 @@ Insert gif or link to demo
 
 
 Login screen
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161182.jpg?alt=media&token=11a44070-94ed-4346-bc70-3247f47b444e)
+<img src="https://firebasestorage.googleapis.com/v0/b/flutter-map-ab586.appspot.com/o/1722158161182.jpg?alt=media&token=11a44070-94ed-4346-bc70-3247f47b444e" width=100>
 
 
 
